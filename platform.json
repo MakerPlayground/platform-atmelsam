@@ -66,8 +66,7 @@
     "framework-arduino-samd-seeed": {
       "type": "framework",
       "optional": true,
-      "owner": "platformio",
-      "version": "~1.8.1"
+      "version": "https://github.com/Seeed-Studio/ArduinoCore-samd.git#5cdbb0d062e3af0459bf8d896d014bd451836bc9"
     },
     "framework-arduino-samd-moteino": {
       "type": "framework",
